@@ -218,7 +218,7 @@ const customStyles = (dark) => ({
       <div className={`max-w-6xl w-full mx-auto px-10 py-10 rounded-3xl shadow-md border-2 
         ${dark ? 'border-themeColors-dark-border bg-themeColors-dark-card' : 'border-themeColors-light-border bg-themeColors-light-card'}`}>
         <h1 className={`text-[clamp(1.5rem,_5vw,_2rem)] font-bold text-center mb-6 ${dark ? 'text-themeColors-dark-text-default' : 'text-themeColors-light-text-default'}`}>
-          Data Processor
+          Bulk Processor
         </h1>
           
         <div className="mb-5">
